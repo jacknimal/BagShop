@@ -1,0 +1,214 @@
+{
+	"pages": [
+	    {
+	    	"path": "pages/login/login",
+	    	"style": { "navigationBarTitleText": "登录注册" }
+	    },
+		{
+		    "path": "pages/index/index",
+		    "style": {
+		        "navigationBarTitleText": "商城首页",
+		        "navigationBarBackgroundColor": "#fff9e6", // 🌟 这里修改为你想要的背景颜色（如浅黄色）
+		        "navigationBarTextStyle": "black"        // 标题文字颜色（仅支持 black 或 white）
+		    }
+		},
+		{
+			"path": "pages/diy/diy",
+			"style": { "navigationBarTitleText": "专属DIY定制", "navigationBarBackgroundColor": "#111111", "navigationBarTextStyle": "white" }
+		},
+		{
+			"path": "pages/diy_detail/diy_detail",
+			"style": {
+				"navigationBarTitleText": "专属定制工作室",
+				"navigationBarBackgroundColor": "#111111",
+				"navigationBarTextStyle": "white"
+			}
+		},
+		{
+			"path": "pages/drafts/drafts",
+			"style": { "navigationBarTitleText": "我的草稿箱" }
+		},
+		{
+			"path": "pages/cart/cart",
+			"style": { "navigationBarTitleText": "购物车" }
+		},
+		{
+			"path": "pages/message/message",
+			"style": { "navigationBarTitleText": "消息通知" }
+		},
+		{
+			"path": "pages/user/user",
+			"style": { "navigationBarTitleText": "个人中心" }
+		},
+        {
+			"path": "pages/orders/orders",
+			"style": { "navigationBarTitleText": "我的订单" }
+		},
+        {
+			"path": "pages/confirm_order/confirm_order",
+			"style": { "navigationBarTitleText": "确认订单" }
+		},
+		{
+			"path": "pages/product_detail/product_detail",
+			"style": {
+				"navigationBarTitleText": "商品详情",
+				"navigationBarBackgroundColor": "#ffffff",
+				"navigationBarTextStyle": "black"
+			}
+		},
+		{
+			"path": "pages/after_sales/after_sales",
+			"style": {
+				"navigationBarTitleText": "申请售后",
+				"navigationBarBackgroundColor": "#ffffff",
+				"navigationBarTextStyle": "black"
+			}
+		},
+		{
+			"path": "pages/after_sales_list/after_sales_list",
+			"style": {
+				"navigationBarTitleText": "我的售后服务",
+				"navigationBarBackgroundColor": "#ffffff",
+				"navigationBarTextStyle": "black"
+			}
+		},
+		{
+			"path": "pages/address/list",
+			"style": { "navigationBarTitleText": "我的收货地址" }
+		},
+		{
+			"path": "pages/address/edit",
+			"style": { "navigationBarTitleText": "编辑地址" }
+		},
+		{
+			"path": "pages/settings/settings",
+			"style": { "navigationBarTitleText": "系统设置" }
+		},
+		{
+			"path": "pages/community/community",
+			"style": {
+				"navigationBarTitleText": "DIY社区"
+			}
+		},
+		{
+			"path": "pages/community/publish",
+			"style": {
+				"navigationBarTitleText": "发布DIY笔记",
+				"navigationBarBackgroundColor": "#ffffff",
+				"navigationBarTextStyle": "black"
+			}
+		},
+		{
+			"path": "pages/community/post_detail",
+			"style": { "navigationBarTitleText": "笔记详情", "navigationBarBackgroundColor": "#ffffff" }
+		},
+		{
+			"path": "pages/community/my_notes",
+			"style": { "navigationBarTitleText": "我的笔记", "navigationBarBackgroundColor": "#f5f7fa" }
+		},
+		{
+			"path": "pages/message/notice_list",
+			"style": { "navigationBarTitleText": "互动通知", "navigationBarBackgroundColor": "#f5f7fa" }
+		},
+		{
+			"path": "pages/message/chat",
+			"style": {
+				"navigationBarTitleText": ""
+				}
+		},
+		{
+			"path": "pages/coupon/coupon_center",
+			"style": { "navigationBarTitleText": "领券中心" }
+		},
+		{
+			"path": "pages/coupon/my_coupons",
+			"style": { "navigationBarTitleText": "我的优惠券" }
+		
+		},
+		{
+			"path": "pages/index/headline_detail",
+			"style": { "navigationBarTitleText": "头条详情" }
+		},
+		{
+			"path": "pages/culture/culture_index",
+			"style": {
+				"navigationBarTitleText": "箱包文化",
+				"navigationBarBackgroundColor": "#ffffff",
+				"navigationBarTextStyle": "black"
+			}
+		},
+		{
+			"path": "pages/culture/culture_detail",
+			"style": {
+				"navigationBarTitleText": "探索文化",
+				"navigationBarBackgroundColor": "#ffffff"
+			}
+		},
+		{
+			"path": "pages/message/follow_hub",
+			"style": { "navigationBarTitleText": "新增粉丝" }
+		},
+		{
+		    "path": "pages/guide/diy_guide",
+		    "style": {
+		        "navigationBarTitleText": "定制指南",
+				
+		        "navigationBarBackgroundColor": "#ffffff",
+		        "navigationBarTextStyle": "black"
+		    }
+		},
+		{
+		    "path": "pages/guide/ai_chat",
+		    "style": {
+		        "navigationBarTitleText": "AI 定制顾问",
+		        "navigationBarBackgroundColor": "#ffffff",
+		        "navigationBarTextStyle": "black"
+		    }
+		},
+		{
+		    "path": "pages/product/new_arrivals",
+		    "style": {
+		        "navigationBarTitleText": "新品首发",
+		        "navigationBarBackgroundColor": "#ffffff"
+		    }
+		},
+		{
+		    "path": "pages/profile/profile",
+		    "style": {
+		        "navigationBarTitleText": "个人资料",
+		        "navigationBarBackgroundColor": "#ffffff",
+		        "navigationBarTextStyle": "black"
+		    }
+		},
+		{
+			"path": "pages/finished_products/finished_products",
+			"style": {
+				"navigationBarTitleText": "我的成品库",
+				"navigationBarBackgroundColor": "#ffffff",
+				"navigationBarTextStyle": "black"
+			}
+		}
+		
+		
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "时尚箱包定制",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8" 
+	},
+	"tabBar": {
+	    "color": "#999999",
+	    "selectedColor": "#ff5000", 
+	    "backgroundColor": "#ffffff",
+        "borderStyle": "white",
+	    "list": [
+	      { "pagePath": "pages/index/index", "text": "首页", "iconPath": "static/tabs/home.png", "selectedIconPath": "static/tabs/home.png" },
+	      { "pagePath": "pages/diy/diy", "text": "DIY", "iconPath": "static/tabs/111.jpg", "selectedIconPath": "static/tabs/111.jpg" },
+	      { "pagePath": "pages/cart/cart", "text": "购物车", "iconPath": "static/tabs/cart.png", "selectedIconPath": "static/tabs/cart.png" },
+	      { "pagePath": "pages/message/message", "text": "消息", "iconPath": "static/tabs/msg.png", "selectedIconPath": "static/tabs/msg.png" },
+	      { "pagePath": "pages/user/user", "text": "我的", "iconPath": "static/tabs/user.png", "selectedIconPath": "static/tabs/user.png" }
+	    ]
+	},
+	"uniIdRouter": {}
+}
