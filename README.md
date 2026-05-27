@@ -16,3 +16,6 @@ uni-app+Vue3+Django+MySQL等
 
 ### 📖示例展示
 <img src="1.jpg" width="300" alt="箱包销售小程序示例图" />  <img src="5.jpg" width="500" alt="箱包销售小程序示例图" />
+
+### ⚠️注意
+仅提供前端代码，如需后端代码和数据库文件，请联系作者
